@@ -1,4 +1,4 @@
-# Example of reproducible research workflow 
+# A changed title of this readme
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
